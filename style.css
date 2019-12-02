@@ -1,0 +1,39 @@
+body {
+    font-family: 'Montserrat';
+    font-size: 22px;
+}
+#footer {
+  padding: 50px;
+   position:flex;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;            /* Footer height */
+}
+h2{
+	padding: 50px;
+   position:flex;
+	width: 100%;
+  height: 10rem;
+}
+.b{
+	position:absolute; 
+   	margin-left:50%;   
+   	width:150px;
+   	bottom:300px;
+}
+
+.about {
+    font-family: 'Montserrat';
+    font-size: 0.75em;
+    color: grey;
+     font-weight: normal; 
+     line-height: 2;
+        
+}
+.portfolio{
+	font-family: 'Montserrat';
+    font-size: 0.5em;
+    color: grey;
+     font-weight: normal; 
+     line-height: 2;
+}
