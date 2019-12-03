@@ -24,10 +24,10 @@ h2{
 
 .about {
     font-family: 'Montserrat';
-    font-size: 0.67em;
+    font-size: 0.60em;
     color: grey;
-     font-weight: normal; 
-     line-height: 1.4;
+     font-weight: small; 
+     line-height: 1.2;
         
 }
 /*.portfolio{
